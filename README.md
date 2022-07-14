@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hamdi Ben Yaflah</h1>
 <h3 align="center">2+ years of software engineering focused on JavaScript with an emphasis in React/NodeJs and AWS.</h3>
 
-<h3 align="center"> At the time being, I am working as a Software Engineer @xTECH in collaboration with @Cornelsen Verlag GmbH & Co. oHG (Cornelsen Verlag). I have never thought that I would be an engineer, I have really enjoyed and still enjoying the journey. </h3>
+<h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. I have never thought that I would be an engineer, I have really enjoyed and still enjoying the journey. </h3>
   
-<h3 align="center"> It's true that I am still at the beginning of my professional career but I am doing my best each day to bring more value to the market. I wake up each day asking myself "How could I be more valuable to my organization?". I believe that "Our rewards in life will always be in exact proportion to our contribution to our service" I aim too high in my career that people might think that I am greedy but that's who I am, I am hungry to learn and succeed.🚀</h3>
+<h3 align="center"> It's true that I am still at the beginning of my professional career but I am doing my best each day to bring more value to the market. I wake up each day asking myself "How can I be more valuable to my organization?". I believe that "Our rewards in life will always be in exact proportion to our contribution to our service" I aim too high in my career that people might think that I am greedy but that's who I am, I am hungry to learn and succeed.🚀</h3>
   
 <h3 align="center"> I love connecting with people and help them achieve their goals, I am not a life coach or something like that, I just try to apply all the knowledge acquired through reading books and listening to a different podcast in order to lift people up, and that what I believe the purpose of life, pick and raise each other up. In my organization, even though I am not the scrum master, project manager, or tech lead, I strive each day to enhance my team's performance as a whole group by communicating, facilitating different meetings (daily, retrospective ...), and by integrity. Treat people how you want to be treated. 🙏🏼</h3>
   
@@ -16,11 +16,11 @@
   
 <h3 align="center"> 💥 IT IS ABOUT THE JOURNEY NOT THE DESTINATION 💥</h3>
 
-- 🔭 I’m currfently working on [eCademy](https://app.ecademy-learning.com/)
+- 🔭 I’m currfently working with [Alteos](https://alteos.com/de)
 
-- 🌱 I’m currently learning **Amplify**
+- 🌱 I’m currently learning **Kafka , CQRS**
 
-- 📫 How to reach me **hamdiby@xtech.guru**
+- 📫 How to reach me **benyaflahhamdi2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
