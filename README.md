@@ -10,7 +10,7 @@
 
 - 🔭 I’m currfently working with [Alteos](https://alteos.com/de)
 
-- 🌱 I’m currently learning **CQRS**
+- 🌱 I’m currently learning **DOMAN DRIVEN DESIGN PATTERNS**
 
 - 📫 How to reach me **benyaflahhamdi2@gmail.com**
 
