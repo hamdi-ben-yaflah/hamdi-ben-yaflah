@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamdi Ben Yaflah</h1>
 <h3 align="center">2+ years of software development focused on JavaScript with an emphasis on microservices and domain-driven design patterns.</h3>
 
-<h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. I have never thought that I would be an engineer, I have really enjoyed and still enjoying the journey. </h3>
-  
-<h3 align="center"> In my organization, even though I am not the scrum master, project manager, or tech lead, I strive each day to enhance my team's performance as a whole group by communicating, facilitating different meetings (daily, retrospective ...), and by integrity. Treat people how you want to be treated. 🙏🏼</h3>
-  
-<h3 align="center"> 💥 IT IS ABOUT THE JOURNEY NOT THE DESTINATION 💥</h3>
+<h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. 
 
 - 🔭 I’m currfently working with [Alteos](https://alteos.com/de)
 
