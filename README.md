@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamdi Ben Yaflah</h1>
-<h3 align="center">2+ years of software development focused on JavaScript with an emphasis on microservices and domain-driven design patterns.</h3>
+<h3 align="center">Proficient Full-Stack Developer with 3+ years of experience specializing in JavaScript and distributed systems.</h3>
 
 <h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. 
 
