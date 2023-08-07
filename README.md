@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamdi Ben Yaflah</h1>
-<h3 align="center">Proficient Full-Stack Developer with 3+ years of experience specializing in JavaScript and distributed systems.</h3>
+<h3 align="center">Full-Stack Software Engineer with 4+ years of experience in JavaScript technologies, proficient in frontend and backend development, specializing in the design and development of distributed systems.</h3>
 
 <h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. 
 
