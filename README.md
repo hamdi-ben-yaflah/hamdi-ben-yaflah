@@ -1,12 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamdi Ben Yaflah</h1>
-<h3 align="center">Full-Stack Software Engineer with 4+ years of experience in JavaScript technologies, proficient in frontend and backend development, specializing in the design and development of distributed systems.</h3>
+<h3 align="center">Seasoned Full Stack Web Developer with over 5 years of experience specializing in JavaScript technologies and AWS, adept at building scalable, distributed systems. My expertise lies in delivering robust and efficient web solutions, leveraging cutting-edge technologies to drive innovation and efficiency.</h3>
 
-<h3 align="center"> At the time being, I am working as a Software Engineer @Alteos GmbH in collaboration with @AXA. 
-
-- 🔭 I’m currfently working with [Alteos](https://alteos.com/de)
-
-- 🌱 I’m currently learning **DOMAN DRIVEN DESIGN PATTERNS**
 
 - 📫 How to reach me **benyaflahhamdi2@gmail.com**
 
